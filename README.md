@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm John! 
+Mechatronics technical high school student with a passion for low-level programming, microcontrollers, and I just love it when the ✨LED✨ blinks! 🤩
 
-<!--
-**Womeesox/Womeesox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇨/🇨++ **Projects**:
+  - [Solutions to competitive programming problems](https://github.com/Womeesox/Olimpiada-informatyczna)
 
-Here are some ideas to get you started:
+- 🐍 **Python projects**: 
+  - [Simple perceptron](https://github.com/Womeesox/my-simple-perceptron)
+  - [Dawn time notificator](https://github.com/Womeesox/dawn_time_notification)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+ - **Other stuff**:
+   - [My "Cracking the coding intervew" problems solutions](https://github.com/Womeesox/CtCI)
